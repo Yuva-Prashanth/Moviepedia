@@ -1,0 +1,37 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "v16.14.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "debug": "^4.3.4",
+    "export": "^0.1.337",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "http-server": "^0.7.5",
+    "init": "^0.1.2",
+    "jest": "^27.5.1",
+    "joi": "^17.6.0",
+    "logger": "^0.0.1",
+    "middleware": "^1.0.0",
+    "mongoose": "^6.2.11",
+    "morgan": "^1.10.0",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1",
+    "pug": "^3.0.2",
+    "startup": "^1.1.1",
+    "underscore": "^1.13.2",
+    "winston": "^3.7.2"
+  },
+  "description": ""
+}
