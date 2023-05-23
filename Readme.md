@@ -1,6 +1,6 @@
 <h1 align="center">Moviepedia </h1>
 
-![Image alt text](https://raw.githubusercontent.com/Yuva-Prashanth/Assets/main/google-docs-00-hero.jpeg "DOCS")
+![reactjs-the-movie-database](https://github.com/Yuva-Prashanth/Moviepedia/assets/103622836/eed1689a-91cc-468d-bddf-65e223876744)
 
 # Overview
 WriteNow is a MERN Stack web application that simulates the functionality of Google Docs. 
