@@ -3,18 +3,19 @@
 ![reactjs-the-movie-database](https://github.com/Yuva-Prashanth/Moviepedia/assets/103622836/eed1689a-91cc-468d-bddf-65e223876744)
 
 # Overview
-WriteNow is a MERN Stack web application that simulates the functionality of Google Docs. 
-The application is built using React JS for the frontend and MongoDB with Mongoose for the backend database. 
-The application allows users to create, edit, and collaborate on documents in real-time.
+Moviepedia web application it utilizes MongoDB, ReactJs, NodeJs, and ExpressJs.
+It serves as a comprehensive platform providing information about movies.
+Users can click on a movie name to access details such as genre, release date, and actor roles. 
 
 # Implementation
-- The frontend of the application includes components and styling written in CSS. 
-- The backend utilizes Mongoose schemas for the MongoDB database to store user data and document content.
+- Designed the UI to show movie names and additional details when a movie is clicked.
+- Implemented the necessary routes in ExpressJs to handle CRUD operations for movies. 
+- Style the UI using CSS or a styling library like Bootstrap to enhance the user experience.
 
 # Features
-- The WriteNow web application is designed to be intuitive and easy to use, providing users with a familiar interface for creating and editing documents. 
-- The application allows for multiple users to collaborate on the same document, with changes being updated in real-time for all users.
-- The WriteNow web application is built using modern web technologies and is fully responsive, allowing for easy use on both desktop and mobile devices.
+- The application is designed to be responsive, adapting to various screen sizes and devices. It is an interface with intuitive and easy to navigate, enhancing the user experience. 
+- The application is built to handle a large amount of movie data and accommodate future expansion.
+- The application may include role-based access control to manage user permissions and admin privileges, if applicable.
 
 # Getting Started with Create React App
 
